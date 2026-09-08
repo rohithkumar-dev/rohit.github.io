@@ -1,0 +1,74 @@
+#maddidit{
+    background-color: #a3b18a;
+    height:1000px;
+}
+#wtp{
+    font-size:100px;
+    text-align:center;
+ position:relative;
+ top:300px;
+ }
+ #mkl{
+   text-align:center;
+   margin:300px;
+  
+ }
+ #about{
+  background-color:rgb(35, 219, 74);
+  height:1000px;
+  font-size:50px;
+ }
+ 
+ #mpl{
+  display:inline-block;
+  width:40%;
+ }
+ #mar{
+ display:inline-block;
+
+ }
+ #myskills{
+  background-color:sandybrown;
+  height:1000px;
+ }
+ #mg{
+  text-align:center;
+  font-size:50px;
+ }
+ #myh{
+  font-size:40px;
+  position:relative;
+  top:50px;
+ }
+ #myprojects{
+  background-color:saddlebrown;
+  height:1000px;
+ }
+ #myprojects h1{
+  text-align:center;
+  font-size:50px;
+ }
+ #myprojects table{
+  text-align:center;
+  font-size:45px;
+}
+#contactme{
+  background-color:slategray;
+  height:1000px;
+}
+#qwe{
+  display:inline-block;
+
+  width:50%;
+}
+#qew{
+  display:inline-block;
+   
+    width:45%;
+}
+#mnb{
+  margin-top:30px;
+  position:relative;
+  left:600px;
+  top:100px;
+}
